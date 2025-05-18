@@ -7,8 +7,8 @@ This project is a simple command-line chatbot using the [facebook/blenderbot-400
 1. **Clone the repository** (if you haven't already):
 
    ```sh
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone https://github.com/davesheinbein/BlenderBotChatbot.git
+   cd BlenderBotChatbot
    ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
